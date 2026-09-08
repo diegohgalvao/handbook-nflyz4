@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://diegohgalvao.github.io/handbook-nflyz4/sitemap.xml
